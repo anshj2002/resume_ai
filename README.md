@@ -2,8 +2,6 @@
 
 An intelligent resume analysis tool that evaluates resumes, provides scoring, and recommends best-fit job roles using NLP! 🎯
 
-![Resume Analyzer Demo](demo-screenshot.png)
-
 ## ⭐ Features
 
 - 📊 Smart resume scoring based on multiple factors:
@@ -158,8 +156,10 @@ Ansh J - [@anshj2002](https://github.com/anshj2002)
 
 ### 📸 Screenshots
 
-![Resume Analysis](screenshot1.png)
+![image](https://github.com/user-attachments/assets/94637aae-834b-45ef-b1e8-27d00610506f)
+
+
+![image](https://github.com/user-attachments/assets/5543393f-7991-48a1-b249-fbc80339c583)
+
 *Resume Analysis Dashboard*
 
-![Job Matching](screenshot2.png)
-*Job Role Matching Results*
